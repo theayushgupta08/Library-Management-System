@@ -54,3 +54,11 @@ This project is designed as a **menu-driven system** for learning and practicing
    ```bash
    git clone https://github.com/theayushgupta08/Library-Management-System.git
    cd Library-Management-System
+
+2. Compile the project:
+    ```bash
+    g++ "Library-Management-System.cpp" -o Library.exe
+
+3. Run the program:
+   ```bash
+    ./Library.exe
